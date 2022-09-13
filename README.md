@@ -1,14 +1,14 @@
 
 
-<img height ="210" leight="220" src="pro.gif" align="right">
+<img height ="180" leight="190" src="pro.gif" align="right">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Bem+vindos+ao+meu+perfil!!!;Welcome+to+my+profile!!!" align="left" alt="Typing SVG" /></a><br>
 <br>
 <br>
 
-<p>- 💻Busco ser desenvolvedor Full-stack;</p>
-<p>- 🎮Adoro jogar um monte de coisas;</p>
-<p>- ⌚️Estudando sobre AWS e Oracle no momento.</p>
+- 💻Busco ser desenvolvedor Full-stack;
+- 🎮Adoro jogar um monte de coisas;
+- ⌚️Estudando sobre AWS e Oracle no momento.
 
 <br>
 
