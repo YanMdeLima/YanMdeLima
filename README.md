@@ -4,13 +4,14 @@
 <br>
 <br>
 
-- 💻Busco ser desenvolvedor Full-stack;
-- 🎮Adoro jogar um monte de coisas;
-- ⌚️Estudando sobre AWS e Oracle no momento.
+- 💻 Computer science student(2);
+- 🎮 Really love play games and talk;
+- ⌚️ Studying Oracle and Azure right now;
+- 🏠 Brazilian.
 
 <br>
 
-## Já aprendi um pouco sobre...
+## What I learned...
 
 <div>
 <img height="40" leight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -32,7 +33,7 @@
 
 <div style="display: inline_block">
 
-## Entre em contato comigo!!!
+## Contact Me!!!
 
 <br><a href="https://www.linkedin.com/in/yan-marques-de-lima-29b520236/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:yanmlima27@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
