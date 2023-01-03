@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- 💻 Computer science student(2);
+- 💻 Computer science student(3);
 - 🎮 Really love play games and talk;
 - ⌚️ Studying Oracle and Azure right now;
 - 🏠 Brazilian.
