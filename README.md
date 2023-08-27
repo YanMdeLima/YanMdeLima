@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- 💻 Computer science student(3);
+- 💻 Computer science student(4);
 - 🎮 Really love play games and talk;
 - ⌚️ Studying more about databases and node.js;
 - 🏠 Brazilian;
