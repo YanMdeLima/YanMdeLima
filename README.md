@@ -5,8 +5,9 @@
 <br>
 
 - 💻 Computer science student(4);
-- 🎮 Really love play games and talk;
-- ⌚️ Studying more about databases and node.js;
+- ⌚️ Studying more about databases and frameworks like React.js and Vue.js;
+- 🖥️ Currently participating in institutional projects like Transformation Day;
+- 📄 Study member group Allan Turing;
 - 🏠 Brazilian;
 
 <br>
