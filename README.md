@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- 💻 Computer science student(4);
+- 💻 Computer science student(6);
 - ⌚️ Studying more about databases and frameworks like React.js and Vue.js;
 - 🖥️ Currently participating in institutional projects like Transformation Day;
 - 📄 Study member group Allan Turing;
